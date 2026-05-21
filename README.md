@@ -25,7 +25,7 @@ development teams. Built with Node.js, React, and MongoDB.
 
 ### Installation
 ```bash
-git clone https://github.com/[username]/adapt_ui_probe_task_manager
+git clone https://github.com/NadeeshaMedagama/adapt_ui_probe_task_manager.git
 cd adapt_ui_probe_task_manager
 npm install
 cp .env.example .env
