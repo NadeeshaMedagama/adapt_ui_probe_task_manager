@@ -42,6 +42,8 @@ npm test
 docker-compose up --build
 ```
 
+This starts the API on `http://localhost:3000` using the `.env` file for `MONGO_URI`.
+
 ### Environment
 Set `MONGO_URI` in `.env` to point at `mongodb://localhost:27017/adapt_ui_probe_task_manager`.
 
