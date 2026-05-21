@@ -3,6 +3,9 @@
 A cloud-native task management system designed for distributed
 development teams. Built with Node.js, React, and MongoDB.
 
+## Pilot Study Evaluation
+- [Document URL]( https://adaptui-pilot-study-evaluation.netlify.app/)
+
 ## Features
 - User authentication with JWT
 - Real-time task assignment and tracking
